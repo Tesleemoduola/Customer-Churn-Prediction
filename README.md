@@ -30,7 +30,7 @@ edge over in the industry.
 The goal is to accurately predict which customers are likely to churn (i.e., discontinue their services) by analyzing 
 historical customer data. Also, to identify the key indicators of churn and recommend retention strategies.
 
-![Churn Picture(image_2.jpg)
+![Churn Picture](image_2.jpg)
 
 
 ## Data Source
